@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Malak El Zekrayat
+
+This log tracks the cryptographic history and versioning for the song **Malak El Zekrayat** (malak-el-zekrayat).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T19:13:12.830086 | `v1` | `adc7ed2ad4b1eea723601f667e626b838b09f2fc99960062f28a5608f4fdd14c` | `c0c3a7f38203ed005723d9d7f6b122f97b8343858aeb1fb02f47bc5b2d5746da` | `2026-05-08_malak-el-zekrayat-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
